@@ -1,2 +1,2 @@
 # Python_Programs
-Data Structure and Algorithm using Python
+Data Structure and Algorithms using Python
