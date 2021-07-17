@@ -8,6 +8,7 @@ def gcd(m,n):
   else:
     return(gcd(n,m%n))
 
-result = gcd(88,99)
+
+ result = gcd(88,99)
 
   
