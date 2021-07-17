@@ -1,0 +1,13 @@
+
+def gcd(m,n):
+  if m <n:
+    (m,n)=(n,m)
+
+  if (m%n)==0:
+    return n
+  else:
+    return(gcd(n,m%n))
+
+result = gcd(88,99)
+
+  
