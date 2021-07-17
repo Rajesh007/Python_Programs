@@ -9,6 +9,4 @@ def gcd(m,n):
     return(gcd(n,m%n))
 
 
- result = gcd(88,99)
-
   
